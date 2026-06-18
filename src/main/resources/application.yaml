@@ -1,0 +1,6 @@
+anthropic:
+  api-key: ${ANTHROPIC_API_KEY}
+
+qdrant:
+  host: localhost
+  port: 6334
